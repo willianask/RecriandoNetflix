@@ -2,6 +2,8 @@
 
 Treinamento de estilização CSS, copiando a tela inicial do Netflix de forma simples, apenas visual.
 
+<h3> Link para visualização rápida no replit: https://recriandonetflix.williannask.repl.co/ </h3>
+
 <h3> Ferramentas: </h3>
 <li>Vscode</li>
 
