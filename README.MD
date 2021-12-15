@@ -1,4 +1,6 @@
-#Recriando a tela inicial do Netflix
+# Recriando a tela inicial do Netflix
+
+Treinamento de estilização CSS, copiando a tela inicial do Netflix de forma simples, apenas visual.
 
 <h3> Ferramentas: </h3>
 <li>Vscode</li>
